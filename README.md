@@ -4,7 +4,7 @@ Useful articles I read
 ## Template
 
 **[`<Theme>`, `<Impression>`]** - [Title with link](https://github.com/usehotkey/articles)
-- Thoughts about this article
+- Thoughts about an article
 
 ## List of articles
 
