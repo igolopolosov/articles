@@ -8,6 +8,11 @@ Useful articles I read
 
 ## List of articles
 
+### January 2019
+
+**[Testing, Really Good]** - [Node.js & JavaScript Testing Best Practices](https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practices-2b98924c9347)
+- Good points bout black box testing and using mocks/stubs. I like format, how this article is structured to sections. Dead-simple test approach is my lovable one.
+
 ### November 2018 
 
 **[Testing, Good]** - [What to test and not to test by Mark Seemann](http://blog.ploeh.dk/2018/11/12/what-to-test-and-not-to-test/)
