@@ -8,6 +8,15 @@ Thoughts about an article
 
 ## List of articles
 
+### May 2019
+
+#### **[Programming, Brilliant]** - [Mastering Programming](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414/) by [Kent Beck](https://www.facebook.com/kentlbeck)
+I feel like I'm doing many of the programming bits mentioned in this article, so I have an amazing feeling of seeing this outside of my head.
+
+Need to think about *Rhythm* and all the *Risks*.
+
+https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414/
+
 ### March 2019
 
 #### **[Language, Awesome]** - [Worse is Better](http://dreamsongs.com/WIB.html) by [Richard P. Gabriel](http://dreamsongs.com/)
