@@ -1,11 +1,6 @@
 # 📝 articles
 Useful articles that I read
 
-## Template
-
-#### **[`<Theme>`, `<Impression>`]** - [Article](https://github.com/usehotkey/articles) by [Author Name](https://github.com/usehotkey)
-Thoughts about an article
-
 ## List of articles
 
 ### May 2019
@@ -49,4 +44,11 @@ http://blog.ploeh.dk/2018/11/12/what-to-test-and-not-to-test/
 Big title, but the content is confusing, it's a nightmare to be honest. It could easily damage newbee developers and give them wrong understadning about testing, practices, agreements.
 
 https://vueschool.io/articles/vuejs-tutorials/testing-in-javascript/
+
+## Template
+
+### Month Year
+
+#### **[`<Theme>`, `<Impression>`]** - [Article](https://github.com/igolopolosov/articles) by [Author Name](https://github.com/igolopolosov)
+Thoughts about an article
 
